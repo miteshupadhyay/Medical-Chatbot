@@ -15,3 +15,8 @@ conda activate D:\GenAI\Medical-Chatbot\medibot
 # 4. Install Dependencies
 
 pip install -r requirements.txt
+
+
+python store_index.py
+
+python app.py
